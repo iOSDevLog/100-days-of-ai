@@ -4,7 +4,7 @@
 # AnaConda
 ---
 
-官方网站: <https://www.anaconda.com/>
+官方网站: <https://www.anaconda.com/>
 
 最受欢迎的Python数据科学平台
 
@@ -52,7 +52,7 @@ Anaconda 是一种Python语言的免费增值开源发行版，用于进行大�
 # NumPy
 ---
 
-官方网站: <https://www.anaconda.com/>
+官方网站: <http://numpy.org>
 
 NumPy是使用Python进行科学计算的基础包。它包含其他内容：
 
