@@ -10,9 +10,9 @@
 
 ## 如果你已经决定要加入：
 
-0.  查看 #100DaysOfAI# 的[官方网站](https://github.com/iOSDevLog/100-days-of-ai)。
-1.  阅读 [加入 #100DaysOfAI#](http://iosdevlog.com/2018/09/28/100-days-of-ai.html)
-1.  Fork这个repo并且每天更新[日志](log.md)，或者查看我的[R1日志](rl-ml/README.md) （R1是round 1，即第一轮）。
+0.  查看 #100DaysOfAI# 的 github [官方网站](https://github.com/iOSDevLog/100-days-of-ai)。
+1.  阅读 [加入 #100DaysOfAI# 博客](http://iosdevlog.com/2018/09/28/100-days-of-ai.html)
+1.  Fork这个repo并且每天更新[日志](log.md)，或者查看我的[R1日志](r1-ml/README.md) （R1是round 1，即第一轮）。
 1.  **在之后的100天，每天查看人工智能(AI)/机器学习(ML)/深度学习(DL)/自然语言处理(NLP)等人工智能相关资料。**
 1.  **每天在微博上，鼓励至少另外两个也在参加挑战的人！“将爱传递下去！”**
 1.  将[规则](rules.md)中的日期改为你开始挑战的日期。
