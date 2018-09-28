@@ -12,7 +12,7 @@ Anaconda Distribution
 
 拥有超过600万用户，开源Anaconda Distribution是在Linux，Windows和Mac OS X上进行Python和R数据科学和机器学习的最快和最简单的方法。它是单机上开发，测试和培训的行业标准。
 
-[Anaconda (Python发行版)](https://zh.wikipedia.org/wiki/Anaconda_(Python%E5%8F%91%E8%A1%8C%E7%89%88))
+[维基百科 Anaconda (Python发行版)](https://zh.wikipedia.org/wiki/Anaconda_(Python%E5%8F%91%E8%A1%8C%E7%89%88))
 
 Anaconda 是一种Python语言的免费增值开源发行版，用于进行大规模数据处理、预测分析，和科学计算，致力于简化包的管理和部署。Anaconda使用软件包管理系统Conda进行包管理。
 
@@ -47,6 +47,7 @@ Anaconda 是一种Python语言的免费增值开源发行版，用于进行大�
 * 导入环境设置：`conda env update -f=/path/environmentName.yaml` 或 `pip install -r /path/environmentName.txt`
 * 列出环境清单：`conda env list`
 * 删除环境： `conda env remove -n env_name`
+* jupyter notebook： `jupyter notebook`
 
 # NumPy
 ---
@@ -76,7 +77,7 @@ NumPy根据[BSD许可证授权](http://www.numpy.org/license.html#license)，只
 
 有关SciPy Stack（NumPy提供基本数组数据结构）的更多信息，请参阅[scipy.org](http://www.scipy.org/)。
 
-![维基百科 NumPy](https://zh.wikipedia.org/wiki/NumPy)
+[维基百科 NumPy](https://zh.wikipedia.org/wiki/NumPy)
 
 
 **NumPy**是[Python语言](https://zh.wikipedia.org/wiki/Python "Python")的一个扩展程序库。支持高阶大量的[维度](https://zh.wikipedia.org/wiki/%E5%A4%9A%E7%B6%AD "多维")[数组](https://zh.wikipedia.org/wiki/%E9%99%A3%E5%88%97 "数组")与[矩阵](https://zh.wikipedia.org/wiki/%E7%9F%A9%E9%99%A3 "矩阵")运算，此外也针对数组运算提供大量的[数学](https://zh.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8 "数学")[函数](https://zh.wikipedia.org/wiki/%E5%87%BD%E6%95%B8 "函数")[库](https://zh.wikipedia.org/wiki/%E5%87%BD%E5%BC%8F%E5%BA%AB "库")。NumPy的前身**Numeric**最早是由Jim Hugunin与其它协作者共同开发，2005年，Travis Oliphant在Numeric中结合了另一个同性质的程序库Numarray的特色，并加入了其它扩展而开发了NumPy。NumPy为开放源代码并且由许多协作者共同维护开发。
