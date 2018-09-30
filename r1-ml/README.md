@@ -20,3 +20,24 @@
 **思考：** 为什么要翻译一下呢，英语不行呐。要是能直接看懂原文，不就好学多了。
 
 **工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day2-yearning/>
+
+### R1D3 （第一轮第三天）2018年9月30日 星期日
+
+**今天的进展：**  斯坦福大学2014（吴恩达）机器学习教程中文笔记
+
+课程地址：<https://www.coursera.org/course/ml>
+
+[笔记在线阅读](http://www.ai-start.com/ml2014)
+
+[课程介绍](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes/blob/master/README.md)
+
+机器学习视频下载链接：见github包含mp4视频和字幕
+
+转自 github：<https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes>
+
+
+
+**思考：** 为什么要翻译一下呢，英语不行呐。要是能直接看懂原文，不就好学多了。
+
+**工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day3-ml-courses/ml-courses.ipynb>
+
