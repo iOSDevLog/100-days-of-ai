@@ -35,9 +35,7 @@
 
 转自 github：<https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes>
 
-
-
-**思考：** 为什么要翻译一下呢，英语不行呐。要是能直接看懂原文，不就好学多了。
+**思考：** 转自 *黄海广* 总结好的，之后要代码实现算法了。
 
 **工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day3-ml-coursera/ml-coursera.ipynb>
 
