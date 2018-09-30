@@ -39,5 +39,5 @@
 
 **思考：** 为什么要翻译一下呢，英语不行呐。要是能直接看懂原文，不就好学多了。
 
-**工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day3-ml-courses/ml-courses.ipynb>
+**工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day3-ml-coursera/ml-coursera.ipynb>
 
