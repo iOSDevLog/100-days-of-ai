@@ -35,9 +35,14 @@
 
 转自 github：<https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes>
 
-
-
 **思考：** 为什么要翻译一下呢，英语不行呐。要是能直接看懂原文，不就好学多了。
 
 **工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day3-ml-courses/ml-courses.ipynb>
 
+### R1D4 （第一轮第四天）2018年10月1日 星期一
+
+**今天的进展：**  转 <https://github.com/Avik-Jain/100-Days-Of-ML-Code> 的中文版 <https://github.com/MLEveryday/100-Days-Of-ML-Code>
+
+**思考：** 本来想实现 swift 版本的 scikit-learn 中算法，swift 没有 pandas, numpy, matplotlib 这样的库，还是算了。今天先转之前比较火的 100-Days-Of-ML-Code，有多种中文版本的实现。
+
+**工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day4-100-days-of-ml-code-cn/>
