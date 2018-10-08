@@ -46,3 +46,11 @@
 **思考：** 本来想实现 swift 版本的 scikit-learn 中算法，swift 没有 pandas, numpy, matplotlib 这样的库，还是算了。今天先转之前比较火的 100-Days-Of-ML-Code，有多种中文版本的实现。
 
 **工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day4-100-days-of-ml-code-cn/>
+
+### R1D5 （第一轮第五天）2018年10月8日 星期一
+
+**今天的进展：**  国庆结束了，先转一个台湾大学林轩田老师曾在coursera上开设了两门机器学习经典课程：《机器学习基石》和《机器学习技法》的中文版。
+
+**思考：** 国庆后恢复一下状态，过两天正式编码。
+
+**工作成果链接：** <http://htmlpreview.github.io/?https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day5-ntu-ml/README.html>
