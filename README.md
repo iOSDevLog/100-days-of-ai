@@ -1,10 +1,11 @@
 # 我决定加入 #100DaysOfAI# 挑战
 ---
 
+## [日志 - 点击这里查看我的进展](r1-ml/README.md)
+
 ## 目录
 
 * [规则](rules.md)
-* [日志 - 点击这里查看我的进展](log.md)
 * [常见问题及回答](FAQ.md)
 * [资源](resources.md)
 
