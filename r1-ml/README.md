@@ -54,3 +54,11 @@
 **思考：** 国庆后恢复一下状态，过两天正式编码。
 
 **工作成果链接：** <http://htmlpreview.github.io/?https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day5-ntu-ml/README.html>
+
+### R1D6 （第一轮第六天）2018年10月9日 星期二
+
+**今天的进展：** 查看 sklearn 源码
+
+**思考：** sklearn 是使用最广的机器学习库，里面实现了大部分的机器学习算法，把 sklearn 源码看懂了，对大多数 ML 知道都会了解。
+
+**工作成果链接：** <http://htmlpreview.github.io/?https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day6-sklearn-uml-diagram/README.md>
