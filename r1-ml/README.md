@@ -53,7 +53,7 @@
 
 **思考：** 国庆后恢复一下状态，过两天正式编码。
 
-**工作成果链接：** <http://htmlpreview.github.io/?https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day5-ntu-ml/README.html>
+**工作成果链接：** <http://htmlpreview.github.io/?https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day5-ntu-ml/index.html>
 
 ### R1D6 （第一轮第六天）2018年10月9日 星期二
 
@@ -61,4 +61,13 @@
 
 **思考：** sklearn 是使用最广的机器学习库，里面实现了大部分的机器学习算法，把 sklearn 源码看懂了，对大多数 ML 知道都会了解。
 
-**工作成果链接：** <http://htmlpreview.github.io/?https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day6-sklearn-uml-diagram/README.md>
+**工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day6-sklearn-uml-diagram/README.md>
+
+
+### R1D6 （第一轮第七天）2018年10月10日 星期三
+
+**今天的进展：** scikit-learn 0.19 中文文档
+
+**思考：** 先看 scikit-learn 中文文档，之后进行源码分析。
+
+**工作成果链接：** <http://htmlpreview.github.io/?https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day7-scikit-learn-0.19-zh/index.html>
