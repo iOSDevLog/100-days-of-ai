@@ -64,10 +64,34 @@
 **工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day6-sklearn-uml-diagram/README.md>
 
 
-### R1D6 （第一轮第七天）2018年10月10日 星期三
+### R1D7 （第一轮第七天）2018年10月10日 星期三
 
 **今天的进展：** scikit-learn 0.19 中文文档
 
 **思考：** 先看 scikit-learn 中文文档，之后进行源码分析。
 
 **工作成果链接：** <http://htmlpreview.github.io/?https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day7-scikit-learn-0.19-zh/index.html>
+
+### R1D7 （第一轮第七天）2019年10月11日 星期四
+
+**今天的进展：** sklearn api
+
+**思考：** sklearn api 整理
+
+**工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day8-sklearn-api/README.md>
+
+### R1D8 （第一轮第八天）2019年01月02日 星期三
+
+**今天的进展：** 总结 Anaconda 安装掼
+
+**思考：** 2019 年开始了，重新开始 2018 年定的任务。
+
+**工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day9-anaconda/README.md>
+
+### R1D10 （第一轮第十天）2019年01月03日 星期四
+
+**今天的进展：** 自然语言处理简明教程
+
+**思考：** 英语好段句，以后再处理中文。
+
+**工作成果链接：** <https://github.com/iOSDevLog/100-days-of-ai/blob/master/r1-ml/day10-nlp/nlp.ipynb>
